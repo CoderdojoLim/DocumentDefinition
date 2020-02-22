@@ -3,7 +3,7 @@
 	<xsl:template match="/">
 		<html>
 		<head>
-			<link rel="stylesheet" type="text/css" href="../project.css"></link>
+			<link rel="stylesheet" type="text/css" href="project.css"></link>
 			<title>Films by City</title>
 		</head>
 		<body class="page">
