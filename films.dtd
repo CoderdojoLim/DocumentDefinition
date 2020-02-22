@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT filmlist (film*)>
+
+<!ELEMENT film (title, director, castmember+)>
+<!ATTLIST film
+	rating NMTOKEN #REQUIRED
+	location NMTOKENS #REQUIRED
+>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT director (firstname, surname)>
+<!ELEMENT castmember (firstname, surname)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>

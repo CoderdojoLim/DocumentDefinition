@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE filmlist SYSTEM "films.dtd">
+
+<filmlist>
+  <film rating="5" location="Dublin Cork">
+	<title>School of Rock</title>
+	<director>
+		<firstname>Richard</firstname>
+		<surname>Linklater</surname>
+	</director>
+	<castmember>
+	    <firstname>Jack</firstname>
+	    <surname>Black</surname>
+	</castmember>
+	<castmember>
+	    <firstname>Mike</firstname>
+	    <surname>White</surname>
+	</castmember>
+  </film>
+  <film rating="3" location="Limerick Cork">
+	<title>Mona Lisa Smile</title>
+	<director>
+		<firstname>Mike</firstname>
+		<surname>Newell</surname>
+	</director>
+	<castmember>
+	    <firstname>Julia</firstname>
+	    <surname>Roberts</surname>
+	</castmember>
+	<castmember>
+	    <firstname>Julia</firstname>
+	    <surname>Stiles</surname>
+	</castmember>
+  </film>  
+  <film rating="2" location="Cork Limerick Dublin">
+    <title>50 First Dates</title>
+    <director>
+        <firstname>Peter</firstname>
+        <surname>Segal</surname>
+    </director>
+    <castmember>
+        <firstname>Drew</firstname>
+        <surname>Barrymore</surname>
+    </castmember>
+    <castmember>
+        <firstname>Adam</firstname>
+        <surname>Sandler</surname>    
+    </castmember>
+  </film>
+  <film rating="3" location="Limerick Dublin">
+    <title>The Cat in the Hat</title>
+    <director>
+        <firstname>Bo</firstname>
+        <surname>Welch</surname>
+    </director>
+    <castmember>
+        <firstname>Mike</firstname>
+        <surname>Myers</surname>
+    </castmember>
+    <castmember>
+        <firstname>Alec</firstname>
+        <surname>Baldwin</surname>    
+    </castmember>
+  </film>
+  <film rating="1" location="Limerick">
+    <title>Cheaper by the Dozen</title>
+    <director>
+        <firstname>Shawn</firstname>
+        <surname>Levy</surname>
+    </director>
+    <castmember>
+        <firstname>Steve</firstname>
+        <surname>Martin</surname>
+    </castmember>
+    <castmember>
+        <firstname>Bonnie</firstname>
+        <surname>Hunt</surname>
+    </castmember>    
+	<castmember>
+	    <firstname>Tom</firstname>
+	    <surname>Welling</surname>
+	</castmember>
+  </film>
+  <film rating="4" location="Cork Dublin">
+    <title>Starsky and Hutch</title>
+    <director>
+    	<firstname>Todd</firstname>
+		<surname>Phillips</surname>
+	</director>
+    <castmember>
+        <firstname>Ben</firstname>
+        <surname>Stiller</surname>
+    </castmember>
+    <castmember>
+        <firstname>Owen</firstname>
+        <surname> Wilson</surname>
+    </castmember>
+  </film>
+ </filmlist>
