@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE listafilmów SYSTEM "filmy.dtd">
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listafilmów>
+  <film ocena="5" Lokalizacja="Dublin Cork">
+	<tytuł>School of Rock</tytuł>
+	<dyrektor>
+		<Imię>Richard</Imię>
+		<nazwisko>Linklater</nazwisko>
+	</dyrektor>
+	<członekobsady>
+	    <Imię>Jack</Imię>
+	    <nazwisko>Black</nazwisko>
+	</członekobsady>
+	<członekobsady>
+	    <Imię>Mike</Imię>
+	    <nazwisko>White</nazwisko>
+	</członekobsady>
+  </film>
+  <film ocena="3" Lokalizacja="Limerick Cork">
+	<tytuł>Mona Lisa Smile</tytuł>
+	<dyrektor>
+		<Imię>Mike</Imię>
+		<nazwisko>Newell</nazwisko>
+	</dyrektor>
+	<członekobsady>
+	    <Imię>Julia</Imię>
+	    <nazwisko>Roberts</nazwisko>
+	</członekobsady>
+	<członekobsady>
+	    <Imię>Julia</Imię>
+	    <nazwisko>Stiles</nazwisko>
+	</członekobsady>
+  </film>  
+  <film ocena="2" Lokalizacja="Cork Limerick Dublin">
+    <tytuł>50 First Dates</tytuł>
+    <dyrektor>
+        <Imię>Peter</Imię>
+        <nazwisko>Segal</nazwisko>
+    </dyrektor>
+    <członekobsady>
+        <Imię>Drew</Imię>
+        <nazwisko>Barrymore</nazwisko>
+    </członekobsady>
+    <członekobsady>
+        <Imię>Adam</Imię>
+        <nazwisko>Sandler</nazwisko>    
+    </członekobsady>
+  </film>
+  <film ocena="3" Lokalizacja="Limerick Dublin">
+    <tytuł>The Cat in the Hat</tytuł>
+    <dyrektor>
+        <Imię>Bo</Imię>
+        <nazwisko>Welch</nazwisko>
+    </dyrektor>
+    <członekobsady>
+        <Imię>Mike</Imię>
+        <nazwisko>Myers</nazwisko>
+    </członekobsady>
+    <członekobsady>
+        <Imię>Alec</Imię>
+        <nazwisko>Baldwin</nazwisko>    
+    </członekobsady>
+  </film>
+  <film ocena="1" Lokalizacja="Limerick">
+    <tytuł>Cheaper by the Dozen</tytuł>
+    <dyrektor>
+        <Imię>Shawn</Imię>
+        <nazwisko>Levy</nazwisko>
+    </dyrektor>
+    <członekobsady>
+        <Imię>Steve</Imię>
+        <nazwisko>Martin</nazwisko>
+    </członekobsady>
+    <członekobsady>
+        <Imię>Bonnie</Imię>
+        <nazwisko>Hunt</nazwisko>
+    </członekobsady>    
+	<członekobsady>
+	    <Imię>Tom</Imię>
+	    <nazwisko>Welling</nazwisko>
+	</członekobsady>
+  </film>
+  <film ocena="4" Lokalizacja="Cork Dublin">
+    <tytuł>Starsky and Hutch</tytuł>
+    <dyrektor>
+    	<Imię>Todd</Imię>
+		<nazwisko>Phillips</nazwisko>
+	</dyrektor>
+    <członekobsady>
+        <Imię>Ben</Imię>
+        <nazwisko>Stiller</nazwisko>
+    </członekobsady>
+    <członekobsady>
+        <Imię>Owen</Imię>
+        <nazwisko> Wilson</nazwisko>
+    </członekobsady>
+  </film>
+ </listafilmów>
