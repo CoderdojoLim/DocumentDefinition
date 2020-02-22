@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT списокфильмов (фильм*)>
+
+<!ELEMENT фильм (заглавие, директор, актерскийсостав+)>
+<!ATTLIST фильм
+	рейтинг NMTOKEN #REQUIRED
+	месторасположения NMTOKENS #REQUIRED
+>
+
+<!ELEMENT заглавие (#PCDATA)>
+<!ELEMENT директор (Имя, фамилия)>
+<!ELEMENT актерскийсостав (Имя, фамилия)>
+<!ELEMENT Имя (#PCDATA)>
+<!ELEMENT фамилия (#PCDATA)>
