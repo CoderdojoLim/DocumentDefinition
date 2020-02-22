@@ -2,8 +2,6 @@
 
 <!DOCTYPE listafilmów SYSTEM "filmy.dtd">
 
-<?xml version="1.0" encoding="UTF-8"?>
-
 <listafilmów>
   <film ocena="5" Lokalizacja="Dublin Cork">
 	<tytuł>School of Rock</tytuł>
