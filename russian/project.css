@@ -1,0 +1,65 @@
+body
+{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+p
+{
+	font-size: smaller;
+}
+a:link
+{
+	color: #000080;
+}
+a:visited
+{
+	color: #000080;
+}
+a:hover
+{
+	color: #000080;
+}
+#Outer
+{
+	width: 600px;
+	background-color: #C0C0C0;
+
+	border-color: #0066CC;
+	border-style: solid;
+	border-width: medium;
+	border-collapse: collapse;
+}
+#Menu
+{
+	width: 100%;
+	background-color: #66CCFF;
+	border-style:none;
+}
+.Header
+{
+	width: 25%;
+	height: 12px;
+	text-align: center;
+	font-size: smaller;
+}
+.Content
+{
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+#Footer
+{
+	background-color: #66CCFF;
+}
+.Footer
+{
+	text-align: right;
+	font-weight: bold;
+	margin-right: 5px;
+}
+.MovieTitle
+{
+	font-size: medium;
+	font-weight: bold;
+}
