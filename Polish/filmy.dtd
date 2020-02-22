@@ -1,0 +1,13 @@
+<!ELEMENT listafilmów (film*)>
+
+<!ELEMENT film (tytuł, dyrektor, członekobsady+)>
+<!ATTLIST film
+	ocena NMTOKEN #REQUIRED
+	Lokalizacja NMTOKENS #REQUIRED
+>
+
+<!ELEMENT tytuł (#PCDATA)>
+<!ELEMENT dyrektor (Imię, nazwisko)>
+<!ELEMENT członekobsady (Imię, nazwisko)>
+<!ELEMENT Imię (#PCDATA)>
+<!ELEMENT nazwisko (#PCDATA)>
